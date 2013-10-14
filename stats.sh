@@ -1,1 +1,0 @@
-grep -wc "logTrackStats" OT5logs.rtf
